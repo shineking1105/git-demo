@@ -15,4 +15,3 @@ hello Git!
 hello Git!  master test
 hello Git!  hot-fix test
 111111111111111111111111
-
